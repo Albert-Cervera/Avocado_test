@@ -12,9 +12,9 @@
  7) Exploration of blocks from blockchain
  8) Filtering of blocks by number
 
-Language: Python 3
-Platform: Linux OS
-Wallet: Desktop approach
+Language: Python 3 ||
+Platform: Linux OS ||
+Wallet: Desktop approach ||
 Architecture:
 The main software libraries and architectures utilized during the development stage of this
 project were:

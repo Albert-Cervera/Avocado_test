@@ -2,15 +2,15 @@
 
 #  DESCRIPTION:
 
-# Main functions include but are not limited to:
-# 1) Wallet account creation
-# 2) Login of accounts with its public address
-# 3) Balance and transactions information from accounts
-# 4) Last 12 transactions retrieval and transaction filtering
-# 5) Transfer of Ether between accounts
-# 6) Transfer of Tokens between accounts
-# 7) Exploration of blocks from blockchain
-# 8) Filtering of blocks by number
+ Main functions include but are not limited to:
+ 1) Wallet account creation
+ 2) Login of accounts with its public address
+ 3) Balance and transactions information from accounts
+ 4) Last 12 transactions retrieval and transaction filtering
+ 5) Transfer of Ether between accounts
+ 6) Transfer of Tokens between accounts
+ 7) Exploration of blocks from blockchain
+ 8) Filtering of blocks by number
 
 Language: Python 3
 Platform: Linux OS
